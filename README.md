@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @mariodcosta
+- 👀 I’m interested in Cybersecurity & Software Developer
+- 🌱 I’m currently learning Python and a lot of things! Everyday is new day to learn something new!
+- 💞️ I’m looking to collaborate in what I can make the difference!
+- 📫 How to reach me mjadacosta@gmail.com
+
+<!---
+mariodcosta/mariodcosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
